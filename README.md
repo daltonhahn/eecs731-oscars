@@ -18,6 +18,7 @@ Project Organization
     │   ├── 02-oscars_year_viz		<- Notebook for visualizing year by year relationships
     │   ├── 03-oscars_gender_viz	<- Notebook for visualizing gender differences
     │   ├── 04-oscars_role_viz		<- Notebook for visualizing player role differences
+    │   ├── 05-oscars_role_viz		<- Notebook for visualizing word cloud
 
 
 --------
